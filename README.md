@@ -7,3 +7,6 @@ Los comandos que soporta el chat son los siguientes: (Segundo y tercero por impl
 2. invoke([class name],[method name]): retorna el resultado de la invocación del método.  Ejemplo: unaryInvoke(java.lang.System, getenv).
 3. unaryInvoke([class name],[method name],[paramtype],[param value]): retorna el resultado de la invocación del método. paramtype = int | double | String.
 
+Ejemplo funcional del primero digitar en el box: Class(java.lang.*)
+
+Donde en * va cualquier clase de java
